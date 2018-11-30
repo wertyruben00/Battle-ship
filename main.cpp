@@ -100,7 +100,3 @@ void computerturn(int&x,int&y){
         cout<<"\n";
     return;
 }
-
-HELLO
-
-
